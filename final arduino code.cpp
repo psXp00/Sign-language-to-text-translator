@@ -2,10 +2,11 @@
 NAME OF THE PROJECT : SIGN LANGUAGE TRANSLATOR
 MADE BY - Pranaya Sigdel
 
-THIS PROJECT READS SENSOR VALUE AND TRY TO UNDERSTAND SYMBOLS GENERATED FROM AMERICAN SIGN LANGUAGE (ASL) CHART
-AND DISPLAY ON A SMARTPHONE.
+This project reads sensor values to interpret symbols generated from the American Sign Language (ASL) chart and 
+displays the corresponding interpretations on a phone.
+
 -------PIN CONFIGURATION----------------
-A0-A4 : FLEX SENSOR
+A0-A6 : FLEX SENSOR
 D4&D5 : FOR BLUETOOTH RX AND TX
 A5&A6 : XPIN AND YPIN FOR ACCELROMETER
 */
