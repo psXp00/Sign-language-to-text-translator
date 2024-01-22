@@ -6,7 +6,7 @@ This project reads sensor values to interpret symbols generated from the America
 displays the corresponding interpretations on a phone.
 
 -------PIN CONFIGURATION----------------
-A0-A6 : FLEX SENSOR
+A0-A4 : FLEX SENSOR
 D4&D5 : FOR BLUETOOTH RX AND TX
 A5&A6 : XPIN AND YPIN FOR ACCELROMETER
 */
